@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 /**
- * @author NelaturiR
+ * @author 
  *
  */
 public class BrowserMinimize {
