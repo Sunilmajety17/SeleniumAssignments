@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 /**
- * @author NelaturiR
+ * @author 
  *  Open the Application URL in Chrome browser , maximize and
  *         close the browser
  */
