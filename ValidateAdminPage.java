@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 /**
- * @author NelaturiR
+ * @author 
  *
  */
 public class ValidateAdminPage {
@@ -15,10 +15,10 @@ public class ValidateAdminPage {
 	/**
 	 * @param Admin link
 	 * Validate followig in Admin page
-	 * • User Management
-		• Job
-		• Organization
-		• Qualifications
+	 * â€¢ User Management
+		â€¢ Job
+		â€¢ Organization
+		â€¢ Qualifications
 
 	 */
 	public static void main(String[] args) {
